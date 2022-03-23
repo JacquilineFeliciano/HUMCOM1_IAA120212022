@@ -1,0 +1,38 @@
+.al {
+  border: 10px solid gray;
+  margin: 10px; 
+  padding: 5px;
+  background-color: brown;
+  }
+  
+.browser {
+  border: 10px solid gray;
+    margin: 10px; 
+    padding: 5px;
+    background-color: lightgray;
+  }
+  
+.brow {
+    font-style: italic;
+    font-weight: 1000;
+    font-size: 30px;
+    color: brown;
+  }
+  
+.ser{
+    font-size: 100%;
+    font-style: normal;
+  }
+
+.ref{
+    background-color: brown;
+    border: 10px solid gray;
+}
+.h{
+    font-style: italic;
+    color: brown;
+}
+.l {
+  border: 10px solid gray;
+  }
+  
