@@ -1,1 +1,0 @@
-alert("Jacquiline B. Feliciano\n2nd Year\nHUMCOM1-IAA1\nHuman Computer Interaction");
